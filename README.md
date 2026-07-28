@@ -9,3 +9,6 @@ I'll be using recipes from World of Warcraft: The Official Cookbook by Chelsea M
 - Set up basic HTML structure
 - Use headings, paragraphs, and lists
 - Link pages and embed images using relative paths
+
+## Credits
+- Background pixel art by [SJpixels](https://www.reddit.com/r/wow/comments/lfcblq/durotar_as_a_pixel_art_arpg/)
