@@ -2,6 +2,7 @@
 
 * {
     font-family: 'Inconsolata';
+    margin: 0 auto;
 }
 
 h1,
@@ -45,4 +46,15 @@ footer a {
 
 footer a:hover {
     color: black;
+}
+
+.card,
+.recipe-card {
+    width: 500px;
+    background-color: white;
+}
+
+main {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
