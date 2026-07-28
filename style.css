@@ -73,3 +73,13 @@ main {
 section {
     padding-top: 10px;
 }
+
+main img {
+    display: block;
+}
+
+body {
+    background-image: url(./images/durotar.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
