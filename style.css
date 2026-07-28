@@ -3,6 +3,8 @@
 * {
     font-family: 'Inconsolata';
     margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 h1,
@@ -57,4 +59,17 @@ footer a:hover {
 main {
     border-left: 1px solid black;
     border-right: 1px solid black;
+    padding: 40px;
+}
+
+.ingredients ul {
+    padding-left: 30px;
+}
+
+.steps ol {
+    padding-left: 40px;
+}
+
+section {
+    padding-top: 10px;
 }
